@@ -598,3 +598,4 @@ Nuestra primera aplicación nos brindó una comprensión básica de cómo funcio
 Finalmente, conocimos algunas de las herramientas de Angular más importantes que podrían empoderarte como desarrollador de software. Exploramos cómo usar Angular DevTools para inspeccionar aplicaciones Angular y el depurador de VSCode para la depuración. También examinamos los perfiles de VSCode y cómo pueden ayudarnos a mantener un entorno de desarrollo consistente en todo nuestro equipo.
 
 En el próximo capítulo, aprenderás algunos de los conceptos básicos del lenguaje TypeScript. El capítulo cubrirá qué problemas se pueden resolver mediante la introducción de tipos y el lenguaje en sí. TypeScript, como superconjunto de JavaScript, contiene muchos conceptos poderosos y se combina a la perfección con el framework Angular, como estás a punto de descubrir.
+
